@@ -12,9 +12,8 @@
         "password": "Ganesh1",
         "expirydate": "15-10-2025",
         "Allowoffline": false
-    }
-]
-[
+    },
+
     {
         "device_id": "ba2a6539a5c3512b",
         "username": "SOURABH",
@@ -28,9 +27,9 @@
         "password": "Ganesh15",
         "expirydate": "15-10-2025",
         "Allowoffline": false
-    }
-]
-[
+    },
+
+
     {
         "device_id": "ba2a6539a5c3512b",
         "username": "Sourabh57",
